@@ -18,7 +18,7 @@
 <div> 
   
   <a href="https://instagram.com/ei.nattalia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nattaliaguimaraes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/nattaliaguimaraes](https://www.linkedin.com/in/natalia-guimar%C3%A3es-343204247/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/einattalia/einattalia/blob/output/github-contribution-grid-snake.svg)
 
